@@ -1,0 +1,42 @@
+Notes( For Me & All Learners): https://youtu.be/i53Gi_K3o7I
+
+Study About System Design Is Very Important -  Because you can feel & gain knowledge about how large system (software) works
+on real. You know about Highlevel overview ( Highlevel Design ) as well as Internal Code Structure ( Low Level Desing)
+
+It's not just Interview part but i suggest study like you are going to launch startup & you are leading your own company
+
+
+System Desing ( Low Level Desing + Highlevel Design ).
+
+Highlevel Design :
+
+GauravSen Playlist Prefer. - https://www.youtube.com/watch?v=SmIyIHIYtSY&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+GauravSen ( Tik-Tok architecture). - https://youtu.be/07BVxmVFDGY
+Scaler (Google Search) - https://youtu.be/LsDZab4GpVc?list=PLLhBy6YSIT0ANaihpjwDBSBju0qUZ82SK
+Interview Preperation =  https://chat.openai.com/share/e6ae686a-97a0-466a-b13f-23890eb1cbf3
+Neetcode.io = https://neetcode.io/courses/system-design-for-beginners/1
+Neetcode.io ( Tweeter ) = https://neetcode.io/courses/system-design-interview/0
+
+
+
+**** This Key Points You learn in One Playlist ****
+*** Golden Advice :-> Watch Mock Interview on Real World Product - System Design  ( Most Important)
+
+- What is System Design & how it helps to me?
+- How to scale & manage your system
+- What is Server
+- Types of Database & which databases your prefer for your projects & why ?  ( NoSQL vs MongoDB)
+- Horizontal Scaling vs Vertical Scaling
+- Database Partioning & sharding 
+- Master Slaves Theroem
+- CAP Theorem, Load Balancing
+- Functional , NonFunctional Requirements
+- Availbility, Consistanacy, Faulttorenace, Conistent Hashing , Low latenecy
+- Contextual Adds
+- ML in Out projects
+- Data Storage
+- AWS S3 , Aws elastic service
+- Hybrid Approcach of Choosing Database
+- Design API
+- Caching , RAM VS ROM 
+- MainMemory , RAM , HardDisk 

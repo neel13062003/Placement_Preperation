@@ -1,0 +1,1 @@
+//Articulation ponint = if i remove node then graph dicident more than strongly conneted componeten

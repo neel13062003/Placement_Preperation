@@ -1,0 +1,12 @@
+https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/ 
+
+In DSA most focuses on Arrays-String-Stl ( as basic, easy)
+Most Important on DP, Trees , Graph (medium ,hard)
+
+BinarySearch, Stack , Queue , Sorting only interview perspective. 
+
+
+I will provide you googleDrive link from where you can access some important material which is not share with you in github
+=> https://drive.google.com/drive/folders/1pnVA-BXqVwfPeAhbFsh468qqJCm1scJA?usp=sharing
+
+Most Important Contest  = A2Z Codeforces For Beginner = https://codeforces.com/group/MWSDmqGsZm/contest/219158

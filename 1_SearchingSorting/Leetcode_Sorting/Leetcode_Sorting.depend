@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680675876 source:c:\users\hp\onedrive\desktop\leetcode_sorting\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<vector>
+	"Solution.h"
+
+1680676346 c:\users\hp\onedrive\desktop\leetcode_sorting\solution.h
+	<vector>
+	<set>
+	<string>
+	<algorithm>
+

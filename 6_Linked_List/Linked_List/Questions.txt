@@ -1,0 +1,5 @@
+1) Nth node from last => https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+2) Reverse Linked List => https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1
+
+
+https://www.geeksforgeeks.org/data-structures/linked-list/

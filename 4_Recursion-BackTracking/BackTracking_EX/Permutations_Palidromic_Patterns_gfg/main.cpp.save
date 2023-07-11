@@ -1,0 +1,61 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    void display(vector<vector<char>>& ans, int n, string s) {
+        vector<char> vec;
+        for (int i = 0; i < n; i++) {
+            vec.push_back(s[i]);
+        }
+        ans.push_back(vec);
+    }
+
+    void findPermutations(vector<vector<char>>& ans, int n, string s) {
+        sort(s.begin(), s.end());
+        do {
+            display(ans, n, s);
+        } while (next_permutation(s.begin(), s.end()));
+    }
+
+    vector<string> all_plaindromes(string s) {
+        int n = s.size();
+        vector<vector<char>> ans;
+        findPermutations(ans, n, s);
+
+        vector<string> ans1;
+        for (int i = 0; i < ans.size(); i++) {
+            ans1.push_back(string(ans[i].begin(), ans[i].end()));
+        }
+
+        vector<string> ans2;
+        for (int i = 0; i < ans1.size(); i++) {
+            string str = ans1[i];
+            reverse(str.begin(), str.end());
+            if (ans1[i] == str) {
+                ans2.push_back(ans1[i]);
+            }
+        }
+        return ans2;
+    }
+};
+
+int main(){
+    int T;
+    cin >> T;
+    while(T--)
+    {
+    	string s;
+    	cin >> s;
+        Solution ob;
+    	vector<string> ans  = ob.all_plaindromes(s);
+    	cout<<"{ ";
+    	for(auto i: ans)
+    		cout << i << " ";
+    	cout<<"}";
+    	cout<<"\n";
+    }
+	return 0;
+}
+
+

@@ -1,0 +1,13 @@
+{
+    "name":"Neel",
+    "score":15.65,
+    "isAdmin":false,
+    "licence":null,
+    "shopItem":["food","clothes","oil"],
+
+    "myObj":{
+        "name":"kalp",
+        "marks":100,
+        "shop":["food",{"a":true}]
+    }
+}

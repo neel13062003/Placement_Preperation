@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680920077 source:c:\users\hp\onedrive\desktop\cpp_cheat_sheet_24_hours\sudoko_backtracking\main.cpp
+	<bits/stdc++.h>
+	"Solution.h"
+
+1680920151 c:\users\hp\onedrive\desktop\cpp_cheat_sheet_24_hours\sudoko_backtracking\solution.h
+	<bits/stdc++.h>
+	<vector>
+

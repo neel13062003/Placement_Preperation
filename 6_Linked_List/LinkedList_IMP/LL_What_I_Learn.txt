@@ -1,0 +1,57 @@
+One Tips : Always Remember
+{ Never Try to memorise code or method pls try out to understnad how it all works you can derive solution by yours }
+
+- Singly Linked List
+- Doubly Linked Lis=[t
+- Circular Singly Linked List
+
+- Insertion at Head
+- Insertion b/w node
+- Insertion at Tail
+- Insertion at Tail
+
+- Deletion of node
+
+
+*** Standard Problems ***
+- Merge Two Sorted Linked List                      =  https://leetcode.com/problems/merge-two-sorted-lists/
+- Sort Linked List                                  =  ChatGPT
+- Reverse Linked List                               =  https://leetcode.com/problems/reverse-linked-list/
+- Find Middle Of Linked List                        =  https://leetcode.com/problems/middle-of-the-linked-list/
+- Half Linked List Sorting and Reversing
+- Stack Using LL
+- Queue Using LL
+- Remove Linked List Element                        =  https://leetcode.com/problems/remove-linked-list-elements/
+- Rotate List                                       =  https://leetcode.com/problems/rotate-list/
+- Linked List Cycle                                 =  https://leetcode.com/problems/linked-list-cycle/
+- Add Two Numbers                                   =  https://leetcode.com/problems/add-two-numbers/
+
+Swapping Nodes In LL                                =  https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+Tricky LL                                           =  https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+Intersection of LL                                  =  https://leetcode.com/problems/interval-list-intersections/
+
+
+1)D.  https://practice.geeksforgeeks.org/problems/introduction-to-linked-list/1
+2)D.  https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1
+3)D.  https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+4)D.  https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0
+5)D.  https://leetcode.com/problems/middle-of-the-linked-list/
+6)D.  https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1
+7)D.  https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/0
+8)D.  https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1
+9)D.  https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1
+10)D. https://practice.geeksforgeeks.org/problems/identical-linked-lists/1
+11)D. https://leetcode.com/problems/sort-list/
+12)D. https://leetcode.com/problems/insertion-sort-list/
+13)D. https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+14)D. https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+15)D. https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1
+16)D. https://leetcode.com/problems/reverse-linked-list/
+17)D. https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1
+18)D. https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+19)D. https://leetcode.com/problems/merge-two-sorted-lists/
+20)D. https://leetcode.com/problems/add-two-numbers/
+21)D. https://leetcode.com/problems/intersection-of-two-linked-lists/
+22)D. https://leetcode.com/problems/linked-list-cycle/description/
+23)D. https://leetcode.com/problems/design-linked-list/solutions/
+24)D. https://leetcode.com/problems/rotate-list/description/
