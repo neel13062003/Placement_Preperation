@@ -3,6 +3,7 @@
 <a href="https://drive.google.com/drive/folders/1pnVA-BXqVwfPeAhbFsh468qqJCm1scJA?usp=sharing"> LINK </a> </h3><hr>
 <h3> For Each & Every Section of the Folder I upload a "standard.cpp" file where I write how to start & which sequence of problems You have to Solve with reference Questions Link as well as YouTube videos if needed.</h3><hr>
 <h3>DSA concepts with Java Collection, Pyhon With DSA, Learn GitGithub, Computer Fundamentals{ OOPS, DBMS, OS }, Aplitude, Interview Preparation, System Design </h3><hr>
+<h3> I learned in which order how we most achieve productive output & how to recognize some standard patterns over leetcode or gfg or any competitive platform</h3></hr> 
 </h3>Most Important Contest : A2Z Codeforces For Beginner => <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Contest</a></h3>
 <hr>
 <h3>Platform : </h3>
