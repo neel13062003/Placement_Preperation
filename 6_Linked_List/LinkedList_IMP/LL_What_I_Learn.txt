@@ -55,3 +55,7 @@ Intersection of LL                                  =  https://leetcode.com/prob
 22)D. https://leetcode.com/problems/linked-list-cycle/description/
 23)D. https://leetcode.com/problems/design-linked-list/solutions/
 24)D. https://leetcode.com/problems/rotate-list/description/
+
+
+
+25)D. https://leetcode.com/problems/reverse-nodes-in-k-group/description/

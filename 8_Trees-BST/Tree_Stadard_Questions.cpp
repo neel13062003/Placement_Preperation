@@ -84,7 +84,13 @@
 77)D. https://practice.geeksforgeeks.org/problems/check-for-bst/1
 
 
+*** BST ***
 
+1) https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+2) https://leetcode.com/problems/validate-binary-search-tree/
+3) https://leetcode.com/problems/binary-search-tree-iterator/
+4) https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+5) https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
 
 
 *** GFG ***

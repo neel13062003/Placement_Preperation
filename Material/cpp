@@ -1,0 +1,43 @@
+class Solution {
+public:
+    vector<std::pair<std::string, int>> printAllSubstrings(const string& word) {
+        vector<std::pair<std::string, int>> ans;
+        int n = word.length();
+
+        for (int len = 1; len <= n; len++) {
+            for (int start = 0; start <= n - len; start++) {
+                int end = start + len - 1;
+                std::string s = word.substr(start, len);
+                int x = s.size();
+                ans.push_back({s, x});
+            }
+        }
+        return ans;
+    }
+    
+    bool isSubstring(String a, String b){
+        
+    }
+
+    int longestValidSubstring(string word, vector<string>& forb) {
+        vector<pair<string, int>> vec = printAllSubstrings(word);
+        sort(vec.begin(), vec.end(), [](const auto& a, const auto& b) {
+            return a.second > b.second; // Sort in descending order based on length
+        });
+
+        unordered_map<string, int> mp;
+        for (const auto& s : forb) {
+            mp[s]++;
+        }
+
+        int ans = 0;
+        for (const auto& p : vec) {
+            if (mp.find(p.first) == mp.end() )){
+                ans = max(ans, p.second);
+                break; // We found the longest valid substring, so we can stop.
+            }
+        }
+
+        return ans;
+    }
+};
