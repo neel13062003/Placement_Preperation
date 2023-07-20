@@ -9,4 +9,6 @@
 <li>Java Oops: https://chat.openai.com/share/2141682a-9089-4e5e-bfc8-790dd16f68f0</li>
 
 <li>Php : https://chat.openai.com/share/87571d06-2765-461d-83db-7957ab603663</li>
+<li>Python/ML: https://chat.openai.com/share/4adeacbc-ccc0-4156-b54c-777062a2819f</li>
+<li>AWS: https://chat.openai.com/share/d0b91131-952d-4ea0-9242-016158fb1f95</li>
 
