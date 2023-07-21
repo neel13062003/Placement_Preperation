@@ -92,6 +92,14 @@
 4) https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 5) https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
 
+6) https://leetcode.com/problems/search-in-a-binary-search-tree/
+7) https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1
+8) https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/1
+9) https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1
+10) https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1
+11) https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
+12) https://practice.geeksforgeeks.org/problems/closest-neighbor-in-bst/1
+
 
 *** GFG ***
 1)D.  https://practice.geeksforgeeks.org/problems/inorder-traversal/1
