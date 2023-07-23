@@ -365,3 +365,5 @@ int setBitNumber(int n)
         b=a^b;
         a=a^b;
         return {a,b};
+
+1) https://leetcode.com/problems/counting-bits/
