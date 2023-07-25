@@ -13,3 +13,5 @@
 <li>AWS: https://chat.openai.com/share/d0b91131-952d-4ea0-9242-016158fb1f95</li>
 <li>AccessModifier :  https://chat.openai.com/share/e91b3827-8518-4656-b4c4-79d1bbdb3f4d </li>
 
+<li> More Java Mock Interview:https://chat.openai.com/share/2770bf7b-9927-4fd5-a675-e34dce7cefc71 </li>
+
