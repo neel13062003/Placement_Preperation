@@ -37,5 +37,5 @@
 <li>Aplitude</li>
 <li>SoftwareEngineering</li>
 <li>Design Pattern <a href="https://github.com/shabbirdwd53/design_patterns">Link</a></li>
-<li>InterviewPreperation</li>
+<li>InterviewPreperation <a href="https://www.indiabix.com/">Link (IndiaBix)</a></li>
 <hr>
