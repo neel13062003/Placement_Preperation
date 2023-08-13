@@ -18,5 +18,4 @@
 =======
 <li> More Java Mock Interview:https://chat.openai.com/share/2770bf7b-9927-4fd5-a675-e34dce7cefc7 </li>
 <li> sql: https://chat.openai.com/share/5b04fb54-d067-47d7-84e6-8f7c2e46aa21 </li>
->>>>>>> 161a148e517aca246c2ad4c9b7f5ef38ca9a2cf2
 
