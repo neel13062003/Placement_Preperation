@@ -112,7 +112,8 @@
 1)D. https://practice.geeksforgeeks.org/problems/introduction-to-trees/1
 2)D. https://practice.geeksforgeeks.org/problems/binary-tree-representation/1   - also in java 
 
-
+****D. LRU - https://leetcode.com/problems/lru-cache/
+****R. LFU - https://leetcode.com/problems/lfu-cache/ 
 
 *** Todo ***
 1)  https://leetcode.com/problems/surrounded-regions/
@@ -142,3 +143,8 @@ BST
 3) https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
 4) https://leetcode.com/problems/binary-tree-right-side-view/description/
 5) https://leetcode.com/problems/cousins-in-binary-tree-ii/
+
+
+
+
+

@@ -1,8 +1,9 @@
-One Tips : Always Remember
+One Tips : Always Remember 
 { Never Try to memorise code or method pls try out to understnad how it all works you can derive solution by yours }
+{ Linked List Problem is always 99% either easy or medium } -> Ratio : { 10 : 85 : 5}  -> So cracking LinkedList Problem is very easy.
 
 - Singly Linked List
-- Doubly Linked Lis=[t
+- Doubly Linked List
 - Circular Singly Linked List
 
 - Insertion at Head
@@ -55,7 +56,49 @@ Intersection of LL                                  =  https://leetcode.com/prob
 22)D. https://leetcode.com/problems/linked-list-cycle/description/
 23)D. https://leetcode.com/problems/design-linked-list/solutions/
 24)D. https://leetcode.com/problems/rotate-list/description/
-
-
-
 25)D. https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+
+
+//   String to Integer = { str[i] - '0' }
+//    vec.erase(unique(vec.begin(), vec.end()), vec.end()); // Remove duplicates
+
+1)D. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
+2)D. Double a Number Represented as a Linked List - https://leetcode.com/contest/weekly-contest-358/problems/double-a-number-represented-as-a-linked-list/
+3)D. Add Two Numbers - https://leetcode.com/problems/add-two-numbers/
+4)D. Add Two Numbers - https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+5)D. Convert Binay To Decimal = https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+6)D. Maximum Twin Sum = https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+7)D. Reverse List = https://leetcode.com/problems/rotate-list/
+8)D. delete nth node = https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+9)D. Intersection of Two Linked List = https://leetcode.com/problems/intersection-of-two-linked-lists/
+10)D. Delete Node = https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+11)D. Remove Duplicated from LL = https://leetcode.com/problems/remove-duplicates-from-sorted-list/   { Delete Node Concept use }
+12)D. Remove Duplicated From LL-II = https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+13)D. Next Greater Element(LL) = https://leetcode.com/problems/next-greater-node-in-linked-list/
+14)D. Next Greater Element = https://leetcode.com/problems/next-greater-element-ii/  { Circular element }
+15)D. Next Greater Element =  https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
+16)D. Next Greater Element = https://leetcode.com/problems/next-greater-element-iii/
+17)D. New Linked List Merge = https://leetcode.com/problems/merge-nodes-in-between-zeros/
+
+
+*** STL conceptual problems ***
+
+1) vector = https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1
+2) pair = https://practice.geeksforgeeks.org/problems/c-stl-set-2-pair/1
+3) map = https://practice.geeksforgeeks.org/problems/c-stl-set-3-map/1
+4) set = https://practice.geeksforgeeks.org/problems/c-stl-set-4-stack/1
+5) queue stl = https://practice.geeksforgeeks.org/problems/c-stl-set-5-queue/1
+6) set stl = https://practice.geeksforgeeks.org/problems/c-stl-set-6-set/1
+7) unordered_map = https://practice.geeksforgeeks.org/problems/c-stl-set-7-unordered-map/1 
+8) unordered_set = https://practice.geeksforgeeks.org/problems/c-stl-set-8-unordered-set/1
+9) dequeue = https://practice.geeksforgeeks.org/problems/c-stl-deque/1 
+
+
+Great Problem
+1) Map = https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+2) Browser Histroy  = https://leetcode.com/problems/design-browser-history/submissions/
+3) Video Sharing Platform = https://leetcode.com/problems/design-video-sharing-platform/
+4) LRU Cache = https://leetcode.com/problems/lru-cache/
+
+
+
