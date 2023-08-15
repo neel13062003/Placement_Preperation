@@ -23,14 +23,14 @@
 16. Palindromic Substring = https://leetcode.com/problems/palindromic-substrings/
 17. Decode Ways  = https://leetcode.com/problems/decode-ways/
 18. Maximum Product Subarray = https://leetcode.com/problems/maximum-product-subarray/
-19. Word Break  = https://leetcode.com/problems/word-break/
+19.{Pending} Word Break  = https://leetcode.com/problems/word-break/
 20. Partition Equal SubSet Sum = https://leetcode.com/problems/partition-equal-subset-sum/
 
 
 
 { 2D DP }
 1. 0/1 KnapSack = https://www.interviewbit.com/blog/0-1-knapsack-problem/   
-                  https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1         
+                  https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1          { most important }
 1.0 Greedy Fractional kanpsack = https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
 
 2. Equal Subset Sum Partition
@@ -44,7 +44,7 @@
 
 //2DP+3DP Good Variation
 8. Buy & Sell Stocks = https://leetcode.com/submissions/detail/963429488/
-9. Buy & Sell Stocks-II = https://leetcode.com/submissions/detail/963679310/
+9. Buy & Sell Stocks-II = https://leetcode.com/submissions/detail/1021794274/
 10.Buy & Sell Stocks-III = https://leetcode.com/submissions/detail/963690472/
 11.Buy & Sell Stocks-IV = https://leetcode.com/submissions/detail/963693252/
 12.Buy & Sell Stocks-V = https://leetcode.com/submissions/detail/963696976/
@@ -57,9 +57,14 @@
 //DP+String+BinarySearch
 17. Longest Increase Sub Sequence = https://leetcode.com/problems/longest-increasing-subsequence/
 18. Longest Increase Sum of Sub Sequence = https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
+19. Longest Increase SubSequence = https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
+20. Increase SubSequence = https://practice.geeksforgeeks.org/problems/increasing-sub-sequence1712/1      // DP + Binary Search
+21. Max Sum of Not Part oF lis= https://practice.geeksforgeeks.org/problems/maximum-sum-of-elements-not-part-of-lis/1
+22. No. of Longest Increase SubSequence = https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+23. Longest Ideal Subsequence = https://leetcode.com/problems/longest-ideal-subsequence/
 
 
-19. Partition Equal SubSet Sum  = https://leetcode.com/problems/partition-equal-subset-sum/ 
+24. Partition Equal SubSet Sum  = https://leetcode.com/problems/partition-equal-subset-sum/ 
 
 
 1)Coin Change = https://leetcode.com/problems/coin-change-ii/
@@ -79,6 +84,10 @@ https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-s
 https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
 https://leetcode.com/problems/count-different-palindromic-subsequences/
 https://leetcode.com/problems/palindromic-substrings/
+https://leetcode.com/problems/russian-doll-envelopes/
+https://leetcode.com/problems/largest-number/
+https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
 
 //Striver DP
 *https://leetcode.com/problems/minimum-path-sum/  = maximum path sum
@@ -93,3 +102,7 @@ https://leetcode.com/problems/palindromic-substrings/
 char c = '2';                     //'2' is character
 string str = string(1,c);  //char to string    // "2" is string
 int n = stoi(str);        // 2 is now integer 
+
+int n = str[i]- '0';
+int num = stoi(str);
+string str = to_string(num);

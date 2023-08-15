@@ -1,5 +1,8 @@
 **** Leetcode ***
 
+*** Trees Questions Are most probably Easiest Problem ****
+*** BST also Revice **** 
+
 1)D.  https://leetcode.com/problems/binary-tree-inorder-traversal/       ( Recursive + Iteratve(R))
 2)D.  https://leetcode.com/problems/binary-tree-preorder-traversal/      ( Recursive + Iteratve(R))
 3)D.  https://leetcode.com/problems/binary-tree-postorder-traversal/     ( Recursive + Iteratve(R))
@@ -23,16 +26,16 @@
 19)D. https://leetcode.com/problems/binary-tree-right-side-view/
 20)D. https://leetcode.com/problems/find-bottom-left-tree-value/
 21)D. https://leetcode.com/problems/symmetric-tree/
-22) https://leetcode.com/problems/binary-tree-paths/
-23) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+22)   https://leetcode.com/problems/binary-tree-paths/
+23)   https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 24)D. https://leetcode.com/problems/maximum-width-of-binary-tree/
-25)D. https://leetcode.com/problems/root-equals-sum-of-children/
-26)D. https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
-27) https://leetcode.com/problems/average-of-levels-in-binary-tree/
+25)D. https://leetcode.com/problems/root-equals-sum-of-children/  
+26)D. https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/    {Amazing Learn Lots of Things}
+27)   https://leetcode.com/problems/average-of-levels-in-binary-tree/
 28)D. https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-27) https://leetcode.com/problems/count-complete-tree-nodes/
-28) https://leetcode.com/problems/cousins-in-binary-tree-ii/submissions/
-29) https://leetcode.com/problems/cousins-in-binary-tree/
+27)   https://leetcode.com/problems/count-complete-tree-nodes/
+28)   https://leetcode.com/problems/cousins-in-binary-tree-ii/submissions/
+29)   https://leetcode.com/problems/cousins-in-binary-tree/
 
 30)D. https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1
 31)D. https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1
@@ -84,10 +87,10 @@
 77)D. https://practice.geeksforgeeks.org/problems/check-for-bst/1
 
 
-*** BST ***
+*** BST *** BST nu inorder traversal sorted elememnt ape
 
-1) https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-2) https://leetcode.com/problems/validate-binary-search-tree/
+1)D. https://leetcode.com/problems/kth-smallest-element-in-a-bst/   , https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+2)D. https://leetcode.com/problems/validate-binary-search-tree/
 3) https://leetcode.com/problems/binary-search-tree-iterator/
 4) https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 5) https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
@@ -100,13 +103,15 @@
 11) https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
 12) https://practice.geeksforgeeks.org/problems/closest-neighbor-in-bst/1
 
+13) https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
+14) https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/
 
 *** GFG ***
 1)D.  https://practice.geeksforgeeks.org/problems/inorder-traversal/1
 2)D.  https://practice.geeksforgeeks.org/problems/preorder-traversal/1
 3)D.  https://practice.geeksforgeeks.org/problems/postorder-traversal/1
-4)  https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
-5)D.  https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+4)  https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 
+5)D.  https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1  - rightview Very easy
 6)  https://practice.geeksforgeeks.org/problems/burning-tree/1
 
 1)D. https://practice.geeksforgeeks.org/problems/introduction-to-trees/1
@@ -120,9 +125,11 @@
 2)  https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
 3)  https://leetcode.com/problems/smallest-string-starting-from-leaf/
 4)  https://practice.geeksforgeeks.org/problems/check-if-subtree/1
+5) https://leetcode.com/problems/trim-a-binary-search-tree/
 
 BST
-1)  https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1
+1)  https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1 { masterCard }
+2)  https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/  { very easy BST}
 
 *** Premium Problem ***
 1) https://leetcode.ca/all/1469.html
@@ -133,18 +140,16 @@ BST
 
 *** Recommand ****
 
-1)D. https://leetcode.com/problems/trapping-rain-water/
+1)D. https://leetcode.com/problems/trapping-rain-water/    { asked in meditab }
 2)D. https://leetcode.com/problems/container-with-most-water/
 
 
 
-1) https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0
+1) https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0  { left + left(left),leaf(right)  + right};
 2) https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
 3) https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
 4) https://leetcode.com/problems/binary-tree-right-side-view/description/
-5) https://leetcode.com/problems/cousins-in-binary-tree-ii/
-
-
+*** Cousine : https://leetcode.com/problems/cousins-in-binary-tree-ii/         ***
 
 
 
