@@ -44,6 +44,7 @@ Problems
 22)Union Find = "https://practice.geeksforgeeks.org/problems/union-find/1"
 23)Detect Cycle Using DSU = "https://practice.geeksforgeeks.org/problems/detect-cycle-using-dsu/1"
 24)Find Path Exists = "https://leetcode.com/problems/find-if-path-exists-in-graph/"
+25)No. of Province = "https://practice.geeksforgeeks.org/problems/number-of-provinces/1"         
           
 TODO list
 *) Shortest Path Visiting All Nodes = "https://leetcode.com/problems/shortest-path-visiting-all-nodes/"
