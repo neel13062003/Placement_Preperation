@@ -85,7 +85,11 @@ look like = {
 
 *** Github/Git is Very Vast learning platform keep it learning you can't learn everything in one day ***
 
-
+- If You done any changes in Github directly and commit then first you need "git pull"-> "i" -> "esc"+ ":"  + "w"+ "q" in your local repository. then you can do,
+git add . / git add --a
+git status
+git commit -m "Adding"
+git push -u origin master 
 
 
 Learn => https://www.w3schools.com/git/default.asp</br>
