@@ -40,6 +40,11 @@ Problems
 20)Kruskal = "https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/"
 21)Bridges In Graph = "https://www.codingninjas.com/codestudio/problems/bridges-in-graph_893026?leftPanelTab=0"
 
+
+22)Union Find = "https://practice.geeksforgeeks.org/problems/union-find/1"
+23)Detect Cycle Using DSU = "https://practice.geeksforgeeks.org/problems/detect-cycle-using-dsu/1"
+24)Find Path Exists = "https://leetcode.com/problems/find-if-path-exists-in-graph/"
+          
 TODO list
 *) Shortest Path Visiting All Nodes = "https://leetcode.com/problems/shortest-path-visiting-all-nodes/"
 *) Union Find = "https://practice.geeksforgeeks.org/problems/union-find/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Graph&sortBy=submissions"
