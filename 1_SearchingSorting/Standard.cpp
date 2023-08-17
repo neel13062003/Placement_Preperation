@@ -106,3 +106,7 @@ TimSort is a hybrid sorting algorithm derived from Merge Sort and Insertion Sort
 It is used in various programming languages and libraries as the default sorting algorithm (e.g., Pythons sorted() function).
 TimSort combines the advantages of both Merge Sort and Insertion Sort, making it suitable for a wide range of scenarios.
 Its important to note that the choice of sorting algorithm may also depend on other factors such as memory constraints, stability requirements, and specific optimization considerations for the target platform or application. Therefore, it's recommended to analyze the specific requirements and characteristics of the data before selecting a sorting algorithm.
+
+
+1)D. Search Rotated Array  = https://leetcode.com/problems/search-in-rotated-sorted-array/ 
+1)D. Search Rotated Array-II  = https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ 
