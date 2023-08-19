@@ -110,3 +110,6 @@ Its important to note that the choice of sorting algorithm may also depend on ot
 
 1)D. Search Rotated Array  = https://leetcode.com/problems/search-in-rotated-sorted-array/ 
 1)D. Search Rotated Array-II  = https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ 
+3)D. Search Space = https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1
+4)D. Search Space = https://practice.geeksforgeeks.org/problems/1a31d09f7b8e9c0633339df07858deb3a728fe19/1
+5)D. Search Space = https://leetcode.com/problems/koko-eating-bananas/
