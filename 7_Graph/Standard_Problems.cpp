@@ -102,3 +102,11 @@ Imp) DFS Max Sum Application = https://codeforces.com/contest/1829/problem/E    
 13) No of Icelands = https://leetcode.com/problems/number-of-islands/description/ {DFS}
 14) Flood Fill = https://leetcode.com/problems/flood-fill/ {DFS}
 15) Rottern Oranges = https://leetcode.com/problems/rotting-oranges/
+
+
+
+1. https://www.codechef.com/problems/COSTEMP
+2. https://www.codechef.com/problems/SUBREM
+3. https://www.codechef.com/LP3TO401/problems/DIAMTREE
+4. https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/checkpoint-96deb28e/
+5. https://codeforces.com/problemset/problem/977/E 
