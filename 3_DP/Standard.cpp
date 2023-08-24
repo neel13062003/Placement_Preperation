@@ -69,3 +69,7 @@ https://leetcode.com/problems/palindromic-substrings/
 *https://leetcode.com/problems/partition-equal-subset-sum/ = partion equal subsetsum
 *https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1 = Edge Dropping
 *https://leetcode.com/problems/super-egg-drop/ = version2
+
+
+
+https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/   -  Best Dhrumil
