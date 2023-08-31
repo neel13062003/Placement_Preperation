@@ -62,7 +62,7 @@
 21. Max Sum of Not Part oF lis= https://practice.geeksforgeeks.org/problems/maximum-sum-of-elements-not-part-of-lis/1
 22. No. of Longest Increase SubSequence = https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 23. Longest Ideal Subsequence = https://leetcode.com/problems/longest-ideal-subsequence/
-
+24. Longest Non Increasing Subsequence in Linked List = https://chat.openai.com/share/72451940-f003-41a2-8881-fa2abc7a8991
 
 24. Partition Equal SubSet Sum  = https://leetcode.com/problems/partition-equal-subset-sum/ 
 

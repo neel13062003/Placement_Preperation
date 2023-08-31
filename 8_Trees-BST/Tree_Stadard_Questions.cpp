@@ -155,3 +155,25 @@ BST
 
 { CSES : Trees }
 1) Subordinates : https://cses.fi/problemset/task/1674 
+
+
+
+
+BST
+/*   BST Delete Node = */
+//https://leetcode.com/problems/delete-node-in-a-bst/discuss/1590789/C%2B%2B-Shortest-Recursive-Solution-or-Detailed-Explanation-with-images
+
+Inorder Successor = https://www.youtube.com/watch?v=SXKAD2svfmI
+Sorting is Inorder of BST
+
+1)https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1           , https://www.geeksforgeeks.org/inorder-succesor-node-binary-tree/
+2)https://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/
+3) https://leetcode.com/problems/delete-node-in-a-bst/
+4) https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1
+5) https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1
+6) https://practice.geeksforgeeks.org/problems/floor-in-bst/1
+7) https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1
+8) https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1
+9) https://practice.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1
+10) https://leetcode.com/problems/trim-a-binary-search-tree/submissions/
+11) https://practice.geeksforgeeks.org/problems/bst-to-greater-sum-tree/1
