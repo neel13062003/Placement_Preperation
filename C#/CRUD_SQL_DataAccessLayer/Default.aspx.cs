@@ -17,27 +17,39 @@ public partial class _Default : System.Web.UI.Page
     }
     protected void Button1_Click(object sender, EventArgs e)
     {
+        
         con.Open();
         //Response.Write("conn done");
         string q = "select * from Stud";
-        sqlCommand cmd = new SqlCommand(q,con);
-
-        //SqlCommand cmd = new SqlCommand();
-        //cmd.CommandText = q;
-        //cmd.Connection = con;
+        SqlCommand cmd = new SqlCommand(q,con);
         
-        
-        //  SqlDataReader sdr;
-        //  sdr = cmd.ExecuteReader();
         DataTable dt = new DataTable();
         SqlDataAdapter sda = new SqlDataAdapter(cmd);
         sda.Fill(dt);
 
         GridView1.DataSource = dt;
         GridView1.DataBind();
-
-
         con.Close();
+        
+
+        //If Take SqlData Reader then traverse Loop else SqlData Adapter Takes Directly
+        /*if (con.State == ConnectionState.Closed)
+            con.Open();
+
+        string query = "select * from Stud";
+        SqlCommand cmd = new SqlCommand(query, con);
+        SqlDataReader reader = cmd.ExecuteReader();
+
+        if (reader.HasRows)
+        {
+            DataTable dt = new DataTable();
+            dt.Load(reader);
+            GridView1.DataSource = dt;
+            GridView1.DataBind();
+            reader.Close();
+        }
+        else Response.Write("No data found.");
+        con.Close();*/
     }
 
     protected void Button2_Click(object sender, EventArgs e)

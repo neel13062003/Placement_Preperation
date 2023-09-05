@@ -35,8 +35,5 @@ public class StudAccesslayer
         }
         con.Close();
         return ls;
-        
-
     }
-    
 }

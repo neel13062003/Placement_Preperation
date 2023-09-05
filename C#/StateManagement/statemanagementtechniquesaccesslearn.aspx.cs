@@ -13,6 +13,7 @@ public partial class statemanagementtechniquesaccesslearn : System.Web.UI.Page
     }
     protected void Button1_Click(object sender, EventArgs e)
     {
+        Label1.Text = "";
         if (Session["uname"] != null)
         {
             Label1.Text = Session["uname"].ToString();
@@ -31,9 +32,7 @@ public partial class statemanagementtechniquesaccesslearn : System.Web.UI.Page
         Label1.Text = "";
         if (Request.QueryString["name"] != null)
         {
-            Label1.Text = "";
             Label1.Text = Request.QueryString["name"].ToString() + " " + Request.QueryString["name1"].ToString();
-        
         }
     }
 }

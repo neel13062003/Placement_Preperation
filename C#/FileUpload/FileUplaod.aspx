@@ -8,13 +8,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
         <asp:FileUpload ID="FileUpload1" runat="server" />
-        <br />
-        <br />
-        <br />
+        </br>
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Upload File" />
     </form>
 </body>

@@ -25,6 +25,7 @@ public partial class Default2 : System.Web.UI.Page
         //Response.Write("con done");
         string q = "select count(*) from login where Unm = @un and Pwd = @pw";
         SqlCommand cmd = new SqlCommand(q, con);
+        
         SqlParameter p1 = new SqlParameter("@un", TextBox1.Text);
         SqlParameter p2 = new SqlParameter("@pw", TextBox2.Text);
         cmd.Parameters.Add(p1);

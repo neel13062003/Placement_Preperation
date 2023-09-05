@@ -15,14 +15,14 @@ public partial class statemanagementtechniqueslearn : System.Web.UI.Page
     {
         Session.Add("uname", TextBox1.Text);
         Server.Transfer("statemanagementtechniquesaccesslearn.aspx");
-
-
     }
+
     protected void Button2_Click(object sender, EventArgs e)
     {
         HttpCookie cookies = new HttpCookie("cname", TextBox1.Text);
         Response.Cookies.Add(cookies);
     }
+    
     protected void Button3_Click(object sender, EventArgs e)
     {
         Response.Redirect("statemanagementtechniquesaccesslearn.aspx?name=" + TextBox1.Text+"&name1="+TextBox1.Text);
