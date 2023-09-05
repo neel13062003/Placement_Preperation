@@ -17,18 +17,12 @@
             </FinishNavigationTemplate>
             <WizardSteps>
                 <asp:WizardStep ID="WizardStep1" runat="server" Title="Select Mobile phone" StepType="Start">
-
-
-
                     <asp:DropDownList ID="DropDownList1" runat="server">
                         <asp:ListItem>Select Mobile phone</asp:ListItem>
                         <asp:ListItem>Nokia X3</asp:ListItem>
                         <asp:ListItem>Samsung X22</asp:ListItem>
                         <asp:ListItem>Note 12 pro</asp:ListItem>
                     </asp:DropDownList>
-
-
-
                 </asp:WizardStep>
                 <asp:WizardStep ID="WizardStep2" runat="server" Title="Enter Delivery information" StepType="Step">Enter your name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>

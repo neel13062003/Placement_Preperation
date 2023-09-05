@@ -1,7 +1,5 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default3.aspx.cs" Inherits="Default3" %>
-
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
@@ -52,29 +50,36 @@
                 <asp:Parameter Name="Id" Type="Int32" />
             </UpdateParameters>
         </asp:SqlDataSource>
+
+
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="ObjectDataSource1" OnRowDataBound="GridView1_RowDataBound" AllowPaging="True" AllowSorting="True">
             <Columns>
                 <asp:CommandField ShowSelectButton="True" />
                 <asp:BoundField DataField="id" HeaderText="id" SortExpression="id" />
                 <asp:BoundField DataField="name" HeaderText="name" SortExpression="name" />
-                <asp:BoundField DataField="sem" HeaderText="sem" SortExpression="sem" />
-                
-                
+                <asp:BoundField DataField="sem" HeaderText="sem" SortExpression="sem" />        
             </Columns>
         </asp:GridView>
+
         <asp:DetailsView ID="DetailsView1" runat="server" AllowPaging="True" AutoGenerateRows="False" CssClass="auto-style3" DataKeyNames="Id" DataSourceID="SqlDataSource1" Height="50px" Width="125px">
             <Fields>
+                <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
                 <asp:BoundField DataField="Id" HeaderText="Id" ReadOnly="True" SortExpression="Id" />
                 <asp:BoundField DataField="Name" HeaderText="Name" SortExpression="Name" />
                 <asp:BoundField DataField="sem" HeaderText="sem" SortExpression="sem" />
-                <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
             </Fields>
         </asp:DetailsView>
+
+
         <asp:Label ID="Label1" runat="server" CssClass="auto-style2" Text="Label"></asp:Label>
-        <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" CssClass="auto-style1" DataSourceID="SqlDataSource1" DataTextField="Name" DataValueField="Id" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+        <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" CssClass="auto-style1" DataSourceID="SqlDataSource1" 
+                DataTextField="Name" DataValueField="Id" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
         </asp:DropDownList>
     </div>
-        <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" SelectMethod="getstuddetails" TypeName="studaccesslayer"></asp:ObjectDataSource>
+
+
+        <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" SelectMethod="getstuddetails" TypeName="studaccesslayer">
+        </asp:ObjectDataSource>
     </form>
 </body>
 </html>

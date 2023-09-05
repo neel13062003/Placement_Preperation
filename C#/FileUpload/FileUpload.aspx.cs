@@ -29,24 +29,12 @@ public partial class Fileuploadlearn : System.Web.UI.Page
                 if (FileUpload1.PostedFile.ContentType == "image/jpeg" || FileUpload1.PostedFile.ContentType == "image/png")
                 {
                     FileUpload1.PostedFile.SaveAs("E:\\2022\\secondsessional\\images\\" + path);
-
-
-
                 }
-                else
-                {
-                    Response.Write("please upload jpeg or png file ");
-
-                }
-
+                else  Response.Write("please upload jpeg or png file ");
             }
-            else { Response.Write("image size must be less than 1500 kilo bytes"); }
-
+            else Response.Write("image size must be less than 1500 kilo bytes");
         }
         else
-        {
             Response.Write("please select file");
-        }
-
     }
 }
