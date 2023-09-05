@@ -9,7 +9,7 @@
     <form id="form1" runat="server">
         <asp:TextBox ID="TextBox1" runat="server" Height="162px" TextMode="MultiLine" Width="377px"></asp:TextBox>
         
-        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        <asp:TextBox ID="TextBox2" runat="server" Width="294px"></asp:TextBox>
         <asp:TextBox ID="TextBox3" runat="server" Width="294px"></asp:TextBox>
 
 

@@ -7,7 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 public class student
-{
+{7
     public int ID { get; set; }
     public string Name { get; set; }
     public int Sem { get; set; }
