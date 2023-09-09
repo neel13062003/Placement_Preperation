@@ -40,4 +40,7 @@
 <li>SoftwareEngineering</li>
 <li>Design Pattern <a href="https://github.com/shabbirdwd53/design_patterns">Link</a></li>
 <li>InterviewPreperation <a href="https://www.indiabix.com/">Link (IndiaBix)</a></li>
+<li> HR Interview Preparation  : <a href="https://www.indiabix.com/hr-interview/questions-and-answers/">Link</a></ll> 
+<li> Group Discussion : <a href="https://www.indiabix.com/group-discussion/topics-with-answers/">Link</a>
+<li> Technical Interview Preparation : <a href="https://www.indiabix.com/technical/interview-questions-and-answers/"> Link </a>  
 <hr>
