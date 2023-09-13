@@ -28,6 +28,7 @@
 <li>NeetCode</li>
 <li>Hello World</li>
 <li>CodeISM- Chirag Jain</li>
+<li>LearnCode with Durgesh</li>
 <hr>
 <h3>Topics : </h3>
 <li>Java Collection</li>
@@ -35,7 +36,8 @@
 <li>OOPS</li>
 <li>DBMS</li>
 <li>OS :-> <a href="https://leetcode.com/discuss/interview-question/operating-system/3293671/Advanced-Operating-Systems-FAANG-Interview-Questions-2023">Link</a></li>
-<li>SystemDesign</li>
+<li>Low Level SystemDesign <a href="https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&si=8POaNK9nnwKO9_kP">Link</a></li>
+<li>High Level SystemDesign <a href="https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&si=DISvK96DU0sSyipJ">Link</a></li>
 <li>Aplitude</li>
 <li>SoftwareEngineering</li>
 <li>Design Pattern <a href="https://github.com/shabbirdwd53/design_patterns">Link</a></li>
