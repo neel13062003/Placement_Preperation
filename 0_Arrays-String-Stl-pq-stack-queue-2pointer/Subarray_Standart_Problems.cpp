@@ -175,3 +175,5 @@ int main()
 	return 0;
 }
 // } Driver Code Ends
+
+//https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&sortBy=submissions
