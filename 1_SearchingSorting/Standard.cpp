@@ -29,6 +29,7 @@ O(nlogn) = merge sort every situation
 O(nlogn) & O(n2) = selection sort worst in already sorted 
 O(nlogn) = HeapSort
 O(logn) = count sort 
+O(n) = Data Is sorted (Insertion Sort)
 
 
 /*Internally Built with */
@@ -113,3 +114,24 @@ Its important to note that the choice of sorting algorithm may also depend on ot
 3)D. Search Space = https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1
 4)D. Search Space = https://practice.geeksforgeeks.org/problems/1a31d09f7b8e9c0633339df07858deb3a728fe19/1
 5)D. Search Space = https://leetcode.com/problems/koko-eating-bananas/
+
+
+1) Quick Sort - WithOut Extra Space - O(nlogn) , When Data is Sorted O(n^2)
+2) Merge Sort - With Exrtra Space in every situation - O(nlogn)
+3) Bubble Sort - WithOut Extra Space - O(n^2)
+   2 loop 
+   i = 1 to n-1
+      j= 1 to n-i-1
+        a[j+1]>a[j]  swap(a[j+1],a[j])
+4) Insertion Sort - O(n^2) but in sorted order then O(n)
+  2 loop
+  i = 1 to n-1
+    j = i to 0 
+      check backword for current a[j] postion if aalible shift
+5) Selection Sort - O(N^2) -> When want fix amount of means top 3 sorted data
+  i = 1 to n-1
+     j = 1 to n-1
+        check till end find min and replace with a[i];  
+6) Heap Sort - O(nlogn) - maxiFy , miniFy
+   priority_queue<int>pq;
+   priority_queue<int,vector<int>,greater<int>()>pq;
