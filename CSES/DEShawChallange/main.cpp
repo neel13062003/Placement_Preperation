@@ -1,6 +1,6 @@
 /*
-You are given a string which contains only a’s and b’s. A “good string” can be split into 3 parts. First part should contain only a’s(can contain 0 also), second should contain b’s and third should contain a’s. Now we need to find the length of the largest good string by deleting some characters from the string.
-Example: s = “aaabbaabbbaa” answer = 10
+You are given a string which contains only aï¿½s and bï¿½s. A ï¿½good stringï¿½ can be split into 3 parts. First part should contain only aï¿½s(can contain 0 also), second should contain bï¿½s and third should contain aï¿½s. Now we need to find the length of the largest good string by deleting some characters from the string.
+Example: s = ï¿½aaabbaabbbaaï¿½ï¿½answerï¿½=ï¿½10
 https://www.geeksforgeeks.org/d-e-shaw-internship-interview-experience-on-campus-2023/
 */
 
@@ -46,3 +46,4 @@ int main() {
     cout << max(0, ans);
     return 0;
 }
+
